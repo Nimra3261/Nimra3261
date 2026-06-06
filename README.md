@@ -184,15 +184,21 @@ Solving N-Queens using Genetic Algorithm with selection, crossover, and mutation
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nimra3261&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=040812&title_color=00d4ff&icon_color=00ff88&text_color=e8f4f8"/>
+[![Nimra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nimra3261&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=040812&title_color=00d4ff&icon_color=00ff88&text_color=e8f4f8&cache_seconds=1800)](https://github.com/Nimra3261)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimra3261&layout=compact&theme=tokyonight&hide_border=true&bg_color=040812&title_color=00d4ff&text_color=e8f4f8"/>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nimra3261&layout=compact&theme=tokyonight&hide_border=true&bg_color=040812&title_color=00d4ff&text_color=e8f4f8&cache_seconds=1800&langs_count=6)](https://github.com/Nimra3261)
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Nimra3261&theme=tokyonight&hide_border=true&background=040812&ring=00d4ff&fire=00ff88&currStreakLabel=00d4ff)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nimra3261&theme=tokyonight&hide_border=true&background=040812&ring=00d4ff&fire=00ff88&currStreakLabel=00d4ff)](https://github.com/Nimra3261)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nimra3261&theme=react-dark&bg_color=040812&color=00d4ff&line=00ff88&point=ffffff&hide_border=true)](https://github.com/Nimra3261)
 
 </div>
 
