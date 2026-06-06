@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:00ff88&height=200&section=header&text=Nimra%20Khalid&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Agentic%20AI%20%7C%20NLP%20%7C%20Computer%20Vision&descAlignY=55&descSize=18&animation=fadeIn"/>
+# 👋 Hi, I'm Nimra Khalid
+### AI Engineer · Agentic AI · NLP · Computer Vision
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%F0%9F%A4%96;Building+Agentic+AI+Systems+%F0%9F%9A%80;NLP+%7C+Computer+Vision+%7C+Deep+Learning+%F0%9F%94%AC;Silver+Medalist+%F0%9F%A5%88+%E2%80%94+SZABIST+Islamabad;Open+to+New+Opportunities+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
@@ -211,6 +212,7 @@ I'm actively seeking **exciting AI Engineering opportunities** — open to reloc
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:00d4ff&height=120&section=footer"/>
+---
+<div align="center"><i>Let's build something intelligent together 🚀</i></div>
 
 </div>
