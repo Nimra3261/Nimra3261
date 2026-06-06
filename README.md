@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:00ff88&height=200&section=header&text=Nimra%20Khalid&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Agentic%20AI%20%7C%20NLP%20%7C%20Computer%20Vision&descAlignY=55&descSize=18&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%F0%9F%A4%96;Building+Agentic+AI+Systems+%F0%9F%9A%80;NLP+%7C+Computer+Vision+%7C+Deep+Learning+%F0%9F%94%AC;Silver+Medalist+%F0%9F%A5%88+%E2%80%94+SZABIST+Islamabad;Open+to+Roles+in+Saudi+Arabia+%F0%9F%87%B8%F0%9F%87%A6)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%F0%9F%A4%96;Building+Agentic+AI+Systems+%F0%9F%9A%80;NLP+%7C+Computer+Vision+%7C+Deep+Learning+%F0%9F%94%AC;Silver+Medalist+%F0%9F%A5%88+%E2%80%94+SZABIST+Islamabad;Open+to+New+Opportunities+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
 <br/>
 
@@ -23,7 +23,7 @@ class NimraKhalid:
         self.role        = "AI Engineer"
         self.location    = "Islamabad, Pakistan 🇵🇰"
         self.education   = "BS Artificial Intelligence — SZABIST (CGPA: 3.68/4.0 🥈 Silver Medalist)"
-        self.seeking     = "On-site AI Engineering roles in Saudi Arabia 🇸🇦"
+        self.seeking     = "Exciting AI Engineering opportunities 🚀"
         self.focus       = ["Agentic AI", "NLP", "Computer Vision", "LLMs", "Data Pipelines"]
         self.email       = "nimra3261@gmail.com"
 
@@ -201,7 +201,7 @@ Solving N-Queens using Genetic Algorithm with selection, crossover, and mutation
 
 <div align="center">
 
-I'm actively seeking **on-site AI Engineering roles in Saudi Arabia 🇸🇦** — open to relocation immediately.
+I'm actively seeking **exciting AI Engineering opportunities** — open to relocation.
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-00d4ff?style=for-the-badge)](https://nimra-khalid.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-0077B5?style=for-the-badge)](https://www.linkedin.com/in/nimra-khalid-007b57286)
