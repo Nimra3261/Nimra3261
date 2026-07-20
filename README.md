@@ -114,12 +114,22 @@ Embedding-based document retrieval using FAISS without LLMs, plus NLP-powered re
 
 <table>
 <tr>
+<td colspan="2" width="100%">
+
+### 📄 [DocIQ — RAG Document Intelligence](https://github.com/Nimra3261/dociq)
+Retrieval-augmented document Q&A — FastAPI backend, ChromaDB vector store, Claude API generation, React frontend. Ships with a retrieval-quality eval harness (`hit@3: 90%`) that gates CI, and 28 tests exercising real embedding-based retrieval rather than mocks.
+
+`RAG` `FastAPI` `ChromaDB` `Claude API` `React` `CI/CD` `pytest`
+
+</td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🎯 HireSmart — AI Recruitment System
 End-to-end intelligent recruitment platform. Parses CVs, extracts skills, evaluates candidate-role fit, and ranks applicants using NLP-based scoring.
 
-`Python` `NLP` `AI` `FYP`
+`Python` `NLP` `AI` `FYP` — *code not yet public*
 
 </td>
 <td width="50%">
