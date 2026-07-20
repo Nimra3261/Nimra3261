@@ -126,10 +126,10 @@ Retrieval-augmented document Q&A — FastAPI backend, ChromaDB vector store, Cla
 <tr>
 <td width="50%">
 
-### 🎯 HireSmart — AI Recruitment System
-End-to-end intelligent recruitment platform. Parses CVs, extracts skills, evaluates candidate-role fit, and ranks applicants using NLP-based scoring.
+### 🎯 [HireSmart — AI Recruitment System](https://github.com/Nimra3261/HireSmart)
+End-to-end recruitment platform — job postings, GPT-4 resume screening against the job description, interview panel scheduling and evaluation, personality assessment, and offer letters, with role-based dashboards for HR, HOD, and Dean.
 
-`Python` `NLP` `AI` `FYP` — *code not yet public*
+`Laravel` `PHP` `Python` `Flask` `GPT-4` `MySQL` `FYP`
 
 </td>
 <td width="50%">
