@@ -144,10 +144,10 @@ Real-time fruit detection and classification using YOLOv8. Full pipeline from da
 <tr>
 <td width="50%">
 
-### 🩺 [Diabetes Prediction — ANN](https://github.com/Nimra3261/Diabetes-Prediction-with-ANN)
-Artificial Neural Network for diabetes prediction from clinical features with full ML pipeline.
+### 🩺 [Diabetes Risk Predictor](https://github.com/Nimra3261/Diabetes-Prediction-with-ANN) — [live app](https://diabetes-prediction-with-ann-7ghlopp982vzvjeuvmncrq.streamlit.app/)
+Three models compared honestly on cross-validated ROC-AUC (logistic regression won), with SHAP explaining each individual prediction rather than just outputting a number.
 
-`Deep Learning` `TensorFlow` `Python`
+`scikit-learn` `SHAP` `Streamlit` `Python`
 
 </td>
 <td width="50%">
