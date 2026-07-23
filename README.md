@@ -124,6 +124,26 @@ Retrieval-augmented document Q&A — FastAPI backend, ChromaDB vector store, Cla
 </td>
 </tr>
 <tr>
+<td colspan="2" width="100%">
+
+### 🤖 [agent-pipeline — Multi-Agent Pipeline](https://github.com/Nimra3261/agent-pipeline) — [live app](https://agent-pipeline-nu.vercel.app)
+Researcher, writer, and critic agents hand off work in sequence with live SSE streaming — the critic checks every claim in the draft actually traces back to the research brief and triggers a real revision when it doesn't. Next.js + TypeScript, new stack for this portfolio.
+
+`Next.js` `TypeScript` `Tailwind` `Groq` `Vitest`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" width="100%">
+
+### 🔎 [groundtruth — Research Agent](https://github.com/Nimra3261/groundtruth)
+Plans a question into sub-questions, researches each with live web search, and synthesizes one answer where every claim cites the source that actually supports it — pulled from real search results, never invented.
+
+`Agentic AI` `Claude API` `Python` `pytest`
+
+</td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🎯 [HireSmart — AI Recruitment System](https://github.com/Nimra3261/HireSmart)
@@ -134,46 +154,20 @@ End-to-end recruitment platform — job postings, GPT-4 resume screening against
 </td>
 <td width="50%">
 
-### 🍎 [Fruit Detection — YOLOv8](https://github.com/Nimra3261/Fruit-Detection-Using-YOLO-V8)
-Real-time fruit detection and classification using YOLOv8. Full pipeline from dataset prep to model inference.
-
-`YOLOv8` `Computer Vision` `Python`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
 ### 🩺 [Diabetes Risk Predictor](https://github.com/Nimra3261/Diabetes-Prediction-with-ANN) — [live app](https://diabetes-prediction-with-ann-7ghlopp982vzvjeuvmncrq.streamlit.app/)
 Three models compared honestly on cross-validated ROC-AUC (logistic regression won), with SHAP explaining each individual prediction rather than just outputting a number.
 
 `scikit-learn` `SHAP` `Streamlit` `Python`
 
 </td>
-<td width="50%">
-
-### 🤖 [RL Agent in Grid World](https://github.com/Nimra3261/Reinforcement-Learning-Agent-in-Grid-World)
-Q-learning agent navigating a grid world — state space, reward shaping, policy learning, convergence.
-
-`Reinforcement Learning` `Q-Learning` `Python`
-
-</td>
 </tr>
 <tr>
-<td width="50%">
+<td colspan="2" width="100%">
 
-### 💵 [KNN Banknote Authentication](https://github.com/Nimra3261/K-Nearest-Neighbors-KNN-Algorithm-for-Banknote-Authentication)
-KNN classifier for banknote authentication using wavelet-transformed features.
+### 🍎 [Fruit Detection — YOLOv8](https://github.com/Nimra3261/Fruit-Detection-Using-YOLO-V8)
+Real-time fruit detection and classification using YOLOv8. Full pipeline from dataset prep to model inference.
 
-`KNN` `Machine Learning` `Jupyter`
-
-</td>
-<td width="50%">
-
-### ♛ [N-Queens — Genetic Algorithm](https://github.com/Nimra3261/N-Queens-Problem-Solver-using-Genetic-Algorithm)
-Solving N-Queens using Genetic Algorithm with selection, crossover, and mutation operators.
-
-`Genetic Algorithm` `AI` `Jupyter`
+`YOLOv8` `Computer Vision` `Python`
 
 </td>
 </tr>
