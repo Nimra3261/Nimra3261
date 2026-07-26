@@ -175,6 +175,18 @@ Real-time fruit detection and classification using YOLOv8. Full pipeline from da
 
 ---
 
+## 🌱 Open Source Contributions
+
+| Repo | Pull Request | Status |
+|------|-------------|--------|
+| [chroma-core/chroma](https://github.com/chroma-core/chroma) | [Ban relative imports via flake8-tidy-imports](https://github.com/chroma-core/chroma/pull/7507) | Open |
+| [chroma-core/chroma](https://github.com/chroma-core/chroma) | [Fix vacuous-pass test assertions in add.collections tests](https://github.com/chroma-core/chroma/pull/7508) | Open |
+| [chroma-core/chroma](https://github.com/chroma-core/chroma) | [Use rejects.toBeInstanceOf instead of manual sentinel in admin test](https://github.com/chroma-core/chroma/pull/7509) | Open |
+| [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) | [Add right-to-left reading order support to xy-cut sorting](https://github.com/Unstructured-IO/unstructured/pull/4420) | Open |
+| [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | Cookbook notebook contribution (PR #790) | Open |
+
+---
+
 ## 🏆 Certifications & Awards
 
 | | Award |
