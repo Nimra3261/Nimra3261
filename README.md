@@ -126,6 +126,16 @@ Retrieval-augmented document Q&A — FastAPI backend, ChromaDB vector store, Cla
 <tr>
 <td colspan="2" width="100%">
 
+### ✒️ [nanoglyph — Transformer From Scratch](https://github.com/Nimra3261/nanoglyph) — [live app](https://nanoglyph-nimra.streamlit.app)
+A decoder-only transformer with hand-written causal self-attention — no `nn.MultiheadAttention`, every matmul and mask is explicit. Trained character-level on Shakespeare's complete works (loss `4.56 → 1.61` over 2000 steps), with a test that proves zero future-token leakage rather than just checking output shapes.
+
+`PyTorch` `Transformers` `Streamlit` `pytest`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" width="100%">
+
 ### 🤖 [agent-pipeline — Multi-Agent Pipeline](https://github.com/Nimra3261/agent-pipeline) — [live app](https://agent-pipeline-nu.vercel.app)
 Researcher, writer, and critic agents hand off work in sequence with live SSE streaming — the critic checks every claim in the draft actually traces back to the research brief and triggers a real revision when it doesn't. Next.js + TypeScript, new stack for this portfolio.
 
