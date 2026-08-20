@@ -189,10 +189,14 @@ Real-time fruit detection and classification using YOLOv8. Full pipeline from da
 
 | Repo | Pull Request | Status |
 |------|-------------|--------|
-| [chroma-core/chroma](https://github.com/chroma-core/chroma) | [Ban relative imports via flake8-tidy-imports](https://github.com/chroma-core/chroma/pull/7507) | Open |
+| [chroma-core/chroma](https://github.com/chroma-core/chroma) | [Ban relative imports via flake8-tidy-imports](https://github.com/chroma-core/chroma/pull/7507) | ✅ Merged |
 | [chroma-core/chroma](https://github.com/chroma-core/chroma) | [Fix vacuous-pass test assertions in add.collections tests](https://github.com/chroma-core/chroma/pull/7508) | Open |
 | [chroma-core/chroma](https://github.com/chroma-core/chroma) | [Use rejects.toBeInstanceOf instead of manual sentinel in admin test](https://github.com/chroma-core/chroma/pull/7509) | Open |
+| [chroma-core/chroma](https://github.com/chroma-core/chroma) | [Fix vacuous-pass assertion in get.collection "wrong code" test](https://github.com/chroma-core/chroma/pull/7525) | Open |
+| [chroma-core/chroma](https://github.com/chroma-core/chroma) | [Fix vacuous-pass assertion in collection.config schema/EF conflict test](https://github.com/chroma-core/chroma/pull/7526) | Open |
 | [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) | [Add right-to-left reading order support to xy-cut sorting](https://github.com/Unstructured-IO/unstructured/pull/4420) | Open |
+| [weaviate/weaviate-python-client](https://github.com/weaviate/weaviate-python-client) | [Fix Sequence[Union[...]] validation only requiring one element to match](https://github.com/weaviate/weaviate-python-client/pull/2108) | ✅ Merged |
+| [qdrant/qdrant-client](https://github.com/qdrant/qdrant-client) | [Fix float precision loss in datetime_to_microseconds](https://github.com/qdrant/qdrant-client/pull/1310) | Open |
 | [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | Cookbook notebook contribution (PR #790) | Open |
 
 ---
