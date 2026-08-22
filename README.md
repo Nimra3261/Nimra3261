@@ -116,6 +116,16 @@ Embedding-based document retrieval using FAISS without LLMs, plus NLP-powered re
 <tr>
 <td colspan="2" width="100%">
 
+### 💬 [Deskbot — RAG Chatbot-as-a-Service](https://github.com/Nimra3261/deskbot) — [live app](https://deskbot-nine.vercel.app)
+A real multi-tenant SaaS: businesses sign up, paste their FAQ/docs, and get an embeddable chat widget that answers customer questions grounded only in their own content. Per-tenant document storage in Supabase pgvector, Groq for generation, Stripe billing with real usage-limit enforcement, and a vanilla-JS widget with zero framework dependency for end customers.
+
+`Next.js` `TypeScript` `Supabase` `pgvector` `Stripe` `Groq`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" width="100%">
+
 ### 📄 [DocIQ — RAG Document Intelligence](https://github.com/Nimra3261/dociq)
 Retrieval-augmented document Q&A — FastAPI backend, ChromaDB vector store, Claude API generation, React frontend. Ships with a retrieval-quality eval harness (`hit@3: 90%`) that gates CI, and 28 tests exercising real embedding-based retrieval rather than mocks.
 
